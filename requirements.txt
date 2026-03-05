@@ -6,3 +6,5 @@ ta
 matplotlib
 joblib
 streamlit
+altair
+vega_datasets
